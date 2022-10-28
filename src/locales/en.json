@@ -1,0 +1,6 @@
+{
+  "welcomeMessage": "Welcome to React i18next example project",
+  "HomeScreen": {
+    "changeLanguage": "Change Language"
+  }
+}
