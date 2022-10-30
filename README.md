@@ -14,6 +14,6 @@
 ### Install using npm
 > npm install react-i18next i18next --save
 
-
+**https://emrekirca.medium.com/react-i18next-85cef372fb9b**
 
 
